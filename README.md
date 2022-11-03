@@ -15,7 +15,7 @@
 # Projects
 
 - [Forecasting Bitcoin futures contracts prices using Support Vector Regression (in progress)](https://github.com/rob-vdb/btc-futures-forecasting.git).
-- [A simple analysis of the the impact of Covid-19 lockdowns on the price of Ether and it's futures contracts](https://github.com/rob-vdb/eth-covid-impact.git).
+- [A simple analysis of the the impact of Covid-19 lockdowns on the price of Ether and its futures contracts](https://github.com/rob-vdb/eth-covid-impact.git).
 - [Positioning a robotic finger using an iterative inverse kinematics solver](https://github.com/rob-vdb/position-robot-finger.git).
 - [A simple educational chatbot](https://github.com/rob-vdb/simple-chatbot.git).
   - [An educational chatbot implemented using deep learning (in progress)](https://github.com/rob-vdb/dl-chatbot.git).
