@@ -1,7 +1,7 @@
 # Introduction
 
 ## About 👋 
-- Hi! I’m Robin, and I'm an aspiring Data Scientist.
+- Hi! I’m Robin, and I'm a Data Scientist.
 
 ## Interests 👀 
 - I’m interested in Data Science, Data Analytics, & Maching Learning!
