@@ -1,24 +1,22 @@
 # Introduction
 
 ## About 👋 
-- Hi! I’m Robin van den Berg, and I'm an aspiring Data Scientist.
+- Hi! I’m Robin, and I'm an aspiring Data Scientist.
 
 ## Interests 👀 
 - I’m interested in Data Science, Data Analytics, & Maching Learning!
 
 ## Currently Learning 🌱
-- I’m currently learning about Support Vector Machines & Support Vector Regression using scikit-learn. I am also learning the basics of Natural Language Processing and Deep Learning using TensorFlow and PyTorch. 
+- I’m currently learning more about Data Structures and Algorithms through this [course by the University of California, San Diego on Coursera](https://www.coursera.org/specializations/data-structures-algorithms). 
 
 ## Contact 📫
 - You can reach me on [LinkedIn](https://linkedin.com/in/robin-van-den-berg-3aa7b1255).
 
-# Projects
+# Selected Projects
 
-- [Forecasting Bitcoin futures contracts prices using Support Vector Regression (in progress)](https://github.com/rob-vdb/btc-futures-forecasting.git).
+- [Forecasting Bitcoin futures contracts prices using Support Vector Regression](https://github.com/rob-vdb/btc-futures-forecasting.git).
 - [A simple analysis of the the impact of Covid-19 lockdowns on the price of Ether and its futures contracts](https://github.com/rob-vdb/eth-covid-impact.git).
 - [Positioning a robotic finger using an iterative inverse kinematics solver](https://github.com/rob-vdb/position-robot-finger.git).
-- [A simple educational chatbot](https://github.com/rob-vdb/simple-chatbot.git).
-  - [An educational chatbot implemented using deep learning (in progress)](https://github.com/rob-vdb/dl-chatbot.git).
 
 
 <!---
