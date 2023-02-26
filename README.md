@@ -1,10 +1,7 @@
 # Introduction
 
 ## About 👋 
-- Hi! I’m Robin, and I'm a Data Scientist.
-
-## Interests 👀 
-- I’m interested in Data Science, Data Analytics, & Maching Learning!
+- Hi! I’m Robin, and I'm a Data Science graduate.
 
 ## Currently Learning 🌱
 - I’m currently learning more about Data Structures and Algorithms through this [course by the University of California, San Diego on Coursera](https://www.coursera.org/specializations/data-structures-algorithms). 
@@ -15,7 +12,7 @@
 # Selected Projects
 
 - [Forecasting Bitcoin futures contracts prices using Support Vector Regression](https://github.com/rob-vdb/btc-futures-forecasting.git).
-- [Actual vs Perceived Cause of Death Prevalence in the US](https://github.com/rob-vdb/US-cause-of-death-prevalence.git).
+- [Actual vs perceived cause of death prevalence in the US](https://github.com/rob-vdb/US-cause-of-death-prevalence.git).
 - [Positioning a robotic finger using an iterative inverse kinematics solver](https://github.com/rob-vdb/position-robot-finger.git).
 
 
